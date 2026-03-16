@@ -22,7 +22,7 @@ const Sidebar = ({ activeTab, setActiveTab }) => {
         <div className="w-8 h-8 bg-[#FF6B6B] rounded flex items-center justify-center not-italic">
           L
         </div>
-        <span>LOGICORE.</span>
+        <span>LOGICORE</span>
       </div>
       <nav className="space-y-2">
         {menuItems.map((item) => {
