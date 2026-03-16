@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Sidebar from "./Sidebar";
+import Sidebar from "./sidebar";
 import FleetDashboard from "./Fleet";
 import ExecutiveDashboard from "./Executive";
 import OperationsDashboard from "./Operations";
