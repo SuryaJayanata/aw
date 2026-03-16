@@ -441,7 +441,7 @@ export default function InventoryDashboard() {
       <div className="mt-6 flex justify-end gap-3">
         <button className="px-4 py-2 bg-white border border-slate-200 rounded-lg text-xs font-bold text-slate-600 hover:bg-indigo-50 hover:text-indigo-600 hover:border-indigo-200 transition-all flex items-center gap-2">
           <Plus size={14} />
-          Add Stock
+          Add Stock.
         </button>
         <button className="px-4 py-2 bg-indigo-500 rounded-lg text-xs font-bold text-white hover:bg-indigo-600 transition-all flex items-center gap-2">
           Generate Report
